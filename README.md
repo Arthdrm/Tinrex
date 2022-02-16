@@ -1,2 +1,1 @@
-# Tinrex
-Bootstrap Website Project
+TinDog Starting Files
